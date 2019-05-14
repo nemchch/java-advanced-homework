@@ -13,6 +13,101 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/db-structure.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/insert-custom-types.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/insert-stored-procedures.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/stored-procedures/select-procedures/get_campaign_participation.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/stored-procedures/select-procedures/get_interaction_outcomes_statistics.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/stored-procedures/select-procedures/get_journey_instances_by_status.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/stored-procedures/select-procedures/get_outcomes_for_interaction.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-application/src/main/resources/db/changelog/stored-procedures/select-procedures/get_sub_segments_for_journey_template.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-kafka-collector/src/main/java/com/netcracker/dep/analytics/collector/kafka/dao/StoreDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-kafka-collector/src/test/resources/ca_message.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/main/java/com/netcracker/dep/analytics/reports/dao/models/AbTestNodeRateDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/main/java/com/netcracker/dep/analytics/reports/dao/models/OutcomeAdditionalEventDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/main/java/com/netcracker/dep/analytics/reports/rest/DataRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/main/java/com/netcracker/dep/analytics/reports/rest/ReportsRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/main/java/com/netcracker/dep/analytics/reports/services/impl/CampaignReportServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/main/java/com/netcracker/dep/analytics/reports/services/impl/OutcomesReportsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/test/java/com/netcracker/dep/analytics/reports/services/impl/DataServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DEMO.RND.DEP/analytics-engine-api/analytics-engine-reports-service/src/test/java/com/netcracker/dep/analytics/reports/services/impl/ReportsServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/hello/HelloClient.java">
           <value>
             <set />
@@ -49,6 +144,56 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/implementor/META-INF/MANIFEST.MF">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/mapper/IterativeParallelism.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/mapper/ParallelMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/mapper/Task.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/mapper/TaskItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/mapper/Tasks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/mapper/Worker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/mapper/package-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/parallel/IterativeParallelism.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/parallel/META-INF/MANIFEST.MF">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/parallel/package-info.java">
           <value>
             <set />
           </value>
