@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Nemchunovich
+Class-Path: Implementor.jar
+Main-Class: ru.ifmo.rain.nemchunovich.implementor.Implementor
+

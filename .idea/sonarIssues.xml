@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/1/tmp__ImplementorTest.jar!/info/kgeorgiy/java/advanced/base/BaseTest$1.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/hello/HelloClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/hello/HelloServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/hello/HelloUDPClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/collections/ArraySet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/hello/HelloUDPClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/hello/HelloUDPServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/implementor/Implementor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/implementor/META-INF/MANIFEST.MF">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ru/ifmo/rain/nemchunovich/walk/Walk.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

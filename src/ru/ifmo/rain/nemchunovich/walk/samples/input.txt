@@ -1,0 +1,5 @@
+C:\\Users\\anem0717\\IdeaProjects\\java-homework\\src\\ru\\ifmo\\rain\\nemchunovich\\walk\\samples\\1.txt
+C:\\Users\\anem0717\\IdeaProjects\\java-homework\\src\\ru\\ifmo\\rain\\nemchunovich\\walk\\samples\\2.txt
+C:\\Users\\anem0717\\IdeaProjects\\java-homework\\src\\ru\\ifmo\\rain\\nemchunovich\\walk\\samples\\3.txt
+C:\\Users\\anem0717\\IdeaProjects\\java-homework\\src\\ru\\ifmo\\rain\\nemchunovich\\walk\\samples\\4.txt
+C:\\Users\\anem0717\\IdeaProjects\\java-homework\\src\\ru\\ifmo\\rain\\nemchunovich\\walk\\samples\\5.txt

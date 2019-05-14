@@ -1,0 +1,5 @@
+432399D5 C:\Users\anem0717\IdeaProjects\java-homework\src\ru\ifmo\rain\nemchunovich\walk\samples\1.txt
+8A669E94 C:\Users\anem0717\IdeaProjects\java-homework\src\ru\ifmo\rain\nemchunovich\walk\samples\2.txt
+307D8CE9 C:\Users\anem0717\IdeaProjects\java-homework\src\ru\ifmo\rain\nemchunovich\walk\samples\3.txt
+659079FA C:\Users\anem0717\IdeaProjects\java-homework\src\ru\ifmo\rain\nemchunovich\walk\samples\4.txt
+D41D8CD9 C:\Users\anem0717\IdeaProjects\java-homework\src\ru\ifmo\rain\nemchunovich\walk\samples\5.txt
